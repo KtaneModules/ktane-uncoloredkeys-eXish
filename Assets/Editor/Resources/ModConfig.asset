@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: uncoloredKeysModule
+  title: Uncolored Keys
+  author: eXish, PANOPTES
+  description: 'Press the key with the highest value four times while adding colors
+    to the keys with each press.
+
+
+    Based on the module Colored Keys by LeGeND:
+
+    https://steamcommunity.com/sharedfiles/filedetails/?id=1673910132
+
+
+    HTML: https://ktane.timwi.de/HTML/Uncolored%20Keys.html
+
+    PDF: https://ktane.timwi.de/PDF/Uncolored%20Keys.pdf
+
+
+    Uncolored Keys (uncoloredKeysModule) v1.0.0
+
+    Module Idea by PANOPTES
+
+    Implemented by eXish
+
+    Twitch Plays supported'
+  version: 1.0.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 65e06383d6ccc33479870cb685e118c2, type: 3}
