@@ -126,7 +126,7 @@ public class UncoloredKeysScript : MonoBehaviour {
         {
             ranLet = UnityEngine.Random.Range(0, 6);
             ranCol = UnityEngine.Random.Range(0, 6);
-            displayText.text = words[ranLet];
+            displayText.text = words[ranLet].ToUpper();
             displayText.color = displayColors[ranCol];
             for (int j = 0; j < 4; j++)
                 buttons[j].transform.localPosition = buttons[j].transform.localPosition + Vector3.up * -0.0005f;

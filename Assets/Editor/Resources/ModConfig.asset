@@ -28,13 +28,13 @@ MonoBehaviour:
     PDF: https://ktane.timwi.de/PDF/Uncolored%20Keys.pdf
 
 
-    Uncolored Keys (uncoloredKeysModule) v1.0.0
+    Uncolored Keys (uncoloredKeysModule) v1.0.1
 
     Module Idea by PANOPTES
 
     Implemented by eXish
 
     Twitch Plays supported'
-  version: 1.0.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 65e06383d6ccc33479870cb685e118c2, type: 3}
